@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1RQATKO416TpTINA-YlD6M7xLORMzdeQo
 """
 
-# This surplpus value calculator determines the amount of wages a worker is
-# deprived of when making a particular good or performing a given service
+# This surplpus value calculator determines the amount of labor value a worker
+# is deprived of when making a particular good or performing a given service
 # by subtracting the input costs of the good/service from the value at sale.
 # This can be used by workers to gauge how much exploitation they accept
 # at work every day.
